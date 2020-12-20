@@ -1,0 +1,2 @@
+python pip 使用清华的源：
+pip install lxml -i https://pypi.tuna.tsinghua.edu.cn/simple
