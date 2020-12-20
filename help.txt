@@ -1,2 +1,11 @@
 python pip 使用清华的源：
 pip install lxml -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+echo "# Hotel_PriceAnalysis" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/devile-xiang/Hotel_PriceAnalysis.git
+git push -u origin main
